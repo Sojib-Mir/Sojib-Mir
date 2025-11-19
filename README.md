@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co.com/d0yN14Sv/Blue-and-Orange-Geometric-Web-Developer-Linked-In-Banner-1.png" alt="Banner" width="100%" />
 </p> -->
 <p align="center">
-  <img src="https://i.ibb.co/d0yN14Sv/Blue-and-Orange-Geometric-Web-Developer-Linked-In-Banner-1.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co/d0yN14Sv/Blue-and-Orange-Geometric-Web-Developer-Linked-In-Banner-1.png" alt="Banner" width="100%" hight="auto" />
 </p>
 
 
