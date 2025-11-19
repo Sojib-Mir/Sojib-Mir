@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sojib Mir</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<!--
-**Sojib-Mir/Sojib-Mir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sojibmir27&label=Profile%20views&color=0e75b6&style=flat" alt="sojibmir27" /> </p>
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sojib-Mir&show_icons=true&locale=en" alt="Sojib-Mir" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sojib-Mir&" alt="Sojib-Mir" /></p>
+
+## 💻 Skills
+### 🔤 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### 🧩 Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,express,nodejs,mongodb,bootstrap,vite" />
+</p>
+
+### ⚙ Tools & Others
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
