@@ -21,9 +21,9 @@ I enjoy building simple and efficient web applications, learning new technologie
 I focus on creating functional and user-friendly solutions while gaining practical experience in real-world projects.
 
 ### 🎯 Interests & Activities
-❤️ Love making people smile and coding awesome stuff  
-📬 Reach out: mdsojibmir2027@gmail.com  
-💡 Ask me anything — I'm always open to chat!
+- Love making people smile and coding awesome stuff  
+- Reach out: mdsojibmir2027@gmail.com  
+- Ask me anything — I'm always open to chat!
 
 
 ---
