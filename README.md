@@ -194,4 +194,4 @@ I focus on creating functional and user-friendly solutions while gaining practic
 
 ---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sojib-Mir&label=Profile%20Visits&color=0e75b6&style=flat" alt="Sojib-Mir" /> </p>
+<p align=""> <img src="https://komarev.com/ghpvc/?username=Sojib-Mir&label=Profile%20Visits&color=0e75b6&style=flat" alt="Sojib-Mir" /> </p>
