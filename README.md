@@ -1,7 +1,11 @@
 <!-- ===== BANNER / THUMBNAIL ===== -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.ibb.co.com/d0yN14Sv/Blue-and-Orange-Geometric-Web-Developer-Linked-In-Banner-1.png" alt="Banner" width="100%" />
+</p> -->
+<p align="center">
+  <img src="https://i.ibb.co/d0yN14Sv/Blue-and-Orange-Geometric-Web-Developer-Linked-In-Banner-1.png" alt="Banner" width="100%" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm <strong>Sojib Mir</strong></h1>
 <h3 align="center">
