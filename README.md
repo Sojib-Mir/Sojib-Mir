@@ -25,11 +25,10 @@ I focus on creating functional and user-friendly solutions while gaining practic
 - Reach out: mdsojibmir2027@gmail.com  
 - Ask me anything — I'm always open to chat!
 
-
 ---
 
-## 🤝 Connect with Me
 
+### 📢 FOLLOW ME ON SOCIALS:
 <p align="">
   <a href="https://www.linkedin.com/in/Sojib-Mir/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Sojib-Mir"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
